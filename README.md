@@ -11,12 +11,5 @@ This project is a simulator of the aircraft flight trajectory. [Tupolev TU-154](
 * [Google Charts](https://developers.google.com/chart/) - Interactive charts and data tools
 * [Composer](https://getcomposer.org/) - Dependency Manager for PHP
 
-## Authors
 
-* **Yaroslav Rezaiev** - *Initial idea, architecture and partial implementation* - [YRSLV](https://github.com/YRSLV)
-* **Alex Kharchenko** - *UI design and partial implementation* - [karasick](https://github.com/karasick)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
